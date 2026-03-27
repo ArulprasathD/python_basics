@@ -1,4 +1,4 @@
-# 🐍 ython Basics Practice
+# 🐍 python Basics Practice
 
 This repository contains my complete learning journey in Python, covering core concepts from basics to object-oriented programming .
 
