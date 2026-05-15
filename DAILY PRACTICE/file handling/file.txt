@@ -1,0 +1,14 @@
+stock1 good: network connected
+stock2 error : unable to connect the database
+stock 3 good : checking frontend
+stock 4 warning :error occurs
+stock 5 error : unable to find the file
+stock 6 avarage :link -  "Documents/PYTHON%20BASIC/DAILY%20PRACTICE/notes.txt"
+stock 7 :
+stock 8 :
+stock 9 :
+stock 10 : 
+stock 11 :
+stock 12 :
+stock 13 : 
+stock 14 :
